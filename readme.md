@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-Welcome to the repository of solutions for Project Euler problems, implemented in Python.
+Welcome to the repository of solutions for [Project Euler](https://projecteuler.net/archives) problems, implemented in Python.
 
 ## About
 
